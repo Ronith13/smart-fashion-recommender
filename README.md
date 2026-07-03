@@ -1,8 +1,10 @@
 # 👗 Smart Fashion Recommender
 
-A machine learning project that recommends outfit and clothing suggestions 
-to users based on their style preferences and behavior.
+Machine learning recommendation system trained on 10,000+ user records, covering EDA, 
+feature engineering, and collaborative filtering. Evaluated multiple models via 
+hyperparameter tuning, reaching a Precision@5 of 0.87 on the top-performing model.
 
+**Stack:** Python, Scikit-learn, Pandas
 ---
 
 ## 📌 Project Overview
